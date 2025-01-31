@@ -1,0 +1,25 @@
+{
+  "hash": "5bd862e2",
+  "configHash": "9bf18c3e",
+  "lockfileHash": "af7d963b",
+  "browserHash": "bcbd8587",
+  "optimized": {
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "81e2fad8",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "e2766826",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-ZNNPEPAG": {
+      "file": "chunk-ZNNPEPAG.js"
+    }
+  }
+}
